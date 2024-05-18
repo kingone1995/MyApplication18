@@ -1,2 +1,2 @@
-jbk:
-  -openjdk11
+jdk:
+  - openjdk11
