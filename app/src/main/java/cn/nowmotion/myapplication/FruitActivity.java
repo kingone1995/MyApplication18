@@ -41,8 +41,6 @@ public class FruitActivity extends AppCompatActivity {
 
         System.out.println("测试内容");
 
-        Custon_Status_bar.全透明(this);
-        Custon_Status_bar.白底黑字(this);
         collapsing = findViewById(R.id.collapsing);
         toolbar = findViewById(R.id.toolbar);
 //        floating = findViewById(R.id.floating);
