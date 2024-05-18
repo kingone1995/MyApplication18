@@ -39,7 +39,6 @@ public class FruitActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.println("测试内容");
 
         collapsing = findViewById(R.id.collapsing);
         toolbar = findViewById(R.id.toolbar);
